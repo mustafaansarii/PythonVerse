@@ -7,7 +7,7 @@ This project is a To-Do List application developed in Python, designed to help u
 1. **Installation:**
    - Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/mustafaansarii/CODEWAY/blob/main/Task-01/To-Do_List_Application.py
    cd to-do-list
    ```
 
