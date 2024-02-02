@@ -23,7 +23,7 @@ This project is a To-Do List application developed in Python, designed to help u
    - Track tasks: View and manage your to-do list easily.
 
 4. **To-Do List Image:**
-   ![Task Image](path/to/your/image.png)
+   ![Task Image](assets/todo1.png)
 
 ## Task Completed
 
@@ -32,7 +32,7 @@ The following task has been successfully implemented:
 - [x] To-Do List Application
 
 ## To-Do List Image
-![Task Image](path/to/your/image.png)
+![Task Image](assets/todo2.png)
 
 ## Future Enhancements
 

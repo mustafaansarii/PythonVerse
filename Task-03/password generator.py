@@ -7,11 +7,11 @@ def generate_password(length):
     return password
 
 def main():
-    print("Password Generator")
+    print("Password Generator by Mustafa")
     try:
         length = int(input("Enter the desired length of the password: "))
     except ValueError:
-        print("Please enter a valid number.")
+        print("enter a valid number.")
         return
     if length <= 0:
         print("Please enter a positive number for the password length.")

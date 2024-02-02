@@ -1,37 +1,37 @@
 import tkinter as tk
-from tkinter import simpledialog
+from tkinter import simpledialog as sd
 
 class ToDoApp:
-    def __init__(self, master):
-        self.master = master
-        self.master.title("To-Do List App")
-        self.task_listbox = tk.Listbox(self.master)
-        self.task_listbox.pack(pady=10)
-        self.add_button = tk.Button(self.master, text="Add Task", command=self.add_task)
-        self.add_button.pack()
-        self.update_button = tk.Button(self.master, text="Update Task", command=self.update_task)
-        self.update_button.pack()
-        self.quit_button = tk.Button(self.master, text="Quit", command=self.master.quit)
-        self.quit_button.pack()
-        self.task_listbox.insert(tk.END, "[Incomplete] Add Your Task")
-    def add_task(self):
-        description = simpledialog.askstring("Add Task", "Enter task description:")
-        if description:
-            self.task_listbox.insert(tk.END, f"[Incomplete] {description}")
-    def update_task(self):
-        selected_task_index = self.task_listbox.curselection()
-        if selected_task_index:
-            selected_task_index = selected_task_index[0]
-            current_task = self.task_listbox.get(selected_task_index)
-            new_status = simpledialog.askstring("Update Task Status", f"Update status for:\n{current_task}",
-                                                initialvalue=current_task.split()[0][1:-1])
-            if new_status and new_status.lower() in ["complete", "incomplete"]:
-                updated_task = f"[{new_status.capitalize()}] {current_task.split(maxsplit=1)[1]}"
-                self.task_listbox.delete(selected_task_index)
-                self.task_listbox.insert(selected_task_index, updated_task)
+    def __init__(self, m):
+        self.m = m
+        self.m.title("To-Do List App by Mustafa")
+        self.lb = tk.Listbox(self.m)
+        self.lb.pack(pady=10)
+        self.ab = tk.Button(self.m, text="Add Task", command=self.at)
+        self.ab.pack()
+        self.ub = tk.Button(self.m, text="Update Task", command=self.ut)
+        self.ub.pack()
+        self.qb = tk.Button(self.m, text="Quit", command=self.m.quit)
+        self.qb.pack()
+        self.lb.insert(tk.END, "[Incomplete] Add Your Task")     
+    def at(self):
+        d = sd.askstring("Add Task", "Enter task description:")
+        if d:
+            self.lb.insert(tk.END, f"[Incomplete] {d}")
+    def ut(self):
+        s = self.lb.curselection()
+        if s:
+            s = s[0]
+            t = self.lb.get(s)
+            ns = sd.askstring("Update Task Status", f"Update status for:\n{t}", initialvalue=t.split()[0][1:-1])
+            if ns and ns.lower() in ["complete", "incomplete"]:
+                ut = f"[{ns.capitalize()}] {t.split(maxsplit=1)[1]}"
+                self.lb.delete(s)
+                self.lb.insert(s, ut)
 def main():
-    root = tk.Tk()
-    app = ToDoApp(root)
-    root.mainloop()
+    r = tk.Tk()
+    app = ToDoApp(r)
+    r.mainloop()
+
 if __name__ == "__main__":
     main()
