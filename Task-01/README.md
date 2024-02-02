@@ -42,4 +42,3 @@ The following task has been successfully implemented:
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
-Happy task managing! 🚀
