@@ -43,4 +43,4 @@ If you'd like to contribute to any of these projects, feel free to fork the resp
 
 ## License
 
-These projects are licensed under the MIT License - see the [LICENSE](LICENSE) file in each repository for details.
+These projects are licensed under the MIT License - see the [LICENSE](LICENCE.txt) file in each repository for details.
