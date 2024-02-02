@@ -1,24 +1,20 @@
 # To-Do List Application
 
-This project is a To-Do List application developed in Python, designed to help users efficiently manage and organize their tasks. The application can be run either through the command line or with a graphical user interface (GUI). In this README file, you'll find information on how to use the application and a visual representation of the completed task.
+This project is a To-Do List application developed in Python, designed to help users efficiently manage and organize their tasks. The application can be run through the command line. In this README file, you'll find information on how to use the application and a visual representation of the completed task.
 
 ## How to Use
 
 1. **Installation:**
    - Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/mustafaansarii/CODEWAY/blob/main/Task-01/To-Do_List_Application.py
-   cd to-do-list
+   git clone https://github.com/mustafaansarii/CODEWAY.git
+   cd CODEWAY/Task-01
    ```
 
 2. **Run the Application:**
-   - If using the command line, run the following command:
+   - Execute the following command in your terminal:
      ```bash
-     python todo_app.py
-     ```
-   - If using the GUI, execute:
-     ```bash
-     python gui_todo_app.py
+     python To-Do_List_Application.py
      ```
 
 3. **Functionality:**
