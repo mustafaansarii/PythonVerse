@@ -21,8 +21,9 @@ This project is a To-Do List application developed in Python, designed to help u
    - Create tasks: Add tasks to your to-do list.
    - Update tasks: Mark tasks as completed or edit task details.
    - Track tasks: View and manage your to-do list easily.
-
 4. **To-Do List Image:**
+
+
    ![Task Image](assets/todo1.png)
 
 ## Task Completed
