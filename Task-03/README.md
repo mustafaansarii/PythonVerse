@@ -12,7 +12,7 @@ A Python script to generate random passwords with the specified length.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/CODEWAY/blob/main/Task-03/password%20generator.py
+    git clone https://github.com/mustafaansarii/CODEWAY
     ```
 
 2. Navigate to the project directory:

@@ -7,7 +7,7 @@ This project is a To-Do List application developed in Python, designed to help u
 1. **Installation:**
    - Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/mustafaansarii/CODEWAY.git
+   git clone https://github.com/mustafaansarii/CODEWAY
    cd CODEWAY/Task-01
    ```
 

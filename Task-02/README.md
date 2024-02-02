@@ -16,7 +16,7 @@ A simple Python program for a basic calculator with basic arithmetic operations.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/CODEWAY/blob/main/Task-02/Calculator.py
+    git clone https://github.com/mustafaansarii/CODEWAY
     ```
 
 2. Run the calculator program:
