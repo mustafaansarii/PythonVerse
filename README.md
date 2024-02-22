@@ -24,7 +24,7 @@
    - Retrieves weather information for a given location using the OpenWeatherMap API.
    - Displays temperature, feels-like temperature, pressure, humidity, sunrise, sunset, cloud coverage, and weather description.
 
-   Repository Link: [Weather App Repository](https://github.com/mustafaansarii/PythonVerse/tree/main/To-Do%20List%20Application)
+   Repository Link: [Weather App Repository](https://github.com/mustafaansarii/PythonVerse/tree/main/Weather%20App)
 
 5. **Todo App**
    - A simple Todo application to manage your tasks.

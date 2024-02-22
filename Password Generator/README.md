@@ -12,13 +12,13 @@ A Python script to generate random passwords with the specified length.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/CODEWAY
+    git clone https://github.com/mustafaansarii/PythonVerse
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd  Task-03
+    cd  Weather App
     ```
 
 3. Run the password generator script:

@@ -7,8 +7,8 @@ This project is a To-Do List application developed in Python, designed to help u
 1. **Installation:**
    - Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/mustafaansarii/CODEWAY
-   cd CODEWAY/Task-01
+   git clone https://github.com/mustafaansarii/PythonVerse/tree/main/Weather%20App
+   cd PythonVerse/To-Do List Application
    ```
 
 2. **Run the Application:**

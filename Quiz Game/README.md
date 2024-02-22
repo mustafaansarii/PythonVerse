@@ -13,13 +13,13 @@ A simple Python script for a Quiz Game. Test your knowledge by answering a set o
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/CODEWAY
+    git clone https://github.com/mustafaansarii/PythonVerse
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Task-05
+    cd Weather App
     ```
 
 3. Run the Quiz Game script:
