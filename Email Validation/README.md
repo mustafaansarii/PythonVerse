@@ -18,7 +18,7 @@ This Python program validates email addresses using string functions. It checks 
 
 2. Navigate to the project directory:
     ```bash
-    cd PythonVerse/Email Validation
+    cd PythonVerse/Email Validation in Python ( Using String Functions )
     ```
 
 3. Run the Python script:
@@ -31,3 +31,7 @@ This Python program validates email addresses using string functions. It checks 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
