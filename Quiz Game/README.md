@@ -19,7 +19,7 @@ A simple Python script for a Quiz Game. Test your knowledge by answering a set o
 2. Navigate to the project directory:
 
     ```bash
-    cd Weather App
+    cd Quiz Game
     ```
 
 3. Run the Quiz Game script:

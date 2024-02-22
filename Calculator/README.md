@@ -1,39 +1,34 @@
-# Simple Calculator
+# PythonVerse Calculator
 
-![Calculator Image](assets/cal1.png)
-A simple Python program for a basic calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
+This repository contains a simple Python calculator program that performs basic arithmetic operations.
 
-## Features
+![Calculator](/Calculator/assets/cal1.png)
+## Usage
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+1. **Addition**: Perform addition of two numbers.
+2. **Subtraction**: Perform subtraction of two numbers.
+3. **Multiplication**: Perform multiplication of two numbers.
+4. **Division**: Perform division of two numbers.
 
 ## How to Use
 
 1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/mustafaansarii/PythonVerse/tree/main/Calculator
+    ```
+    git clone https://github.com/mustafaansarii/PythonVerse.git
     ```
 
-2. Run the calculator program:
-
-    ```bash
-    python Calculator.py
+2. Navigate to the Calculator directory:
+    ```
+    cd PythonVerse/Calculator
     ```
 
-3. Follow the on-screen instructions to input two numbers and choose an operation.
+3. Run the Python script:
+    ```
+    python calculator.py
+    ```
 
-## Screenshots
-
-![Calculator Image](assets/cal2.png)
+4. Follow the on-screen instructions to perform calculations.
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](CODEWAY/LICENCE.txt) file for details.
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
