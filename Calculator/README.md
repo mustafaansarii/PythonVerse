@@ -1,7 +1,6 @@
 # Simple Calculator
 
 ![Calculator Image](assets/cal1.png)
-![Calculator Image](assets/cal2.png)
 A simple Python program for a basic calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
 
 ## Features
