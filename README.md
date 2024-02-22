@@ -1,7 +1,3 @@
-# CodeWay Python Internship Projects
-
-Welcome to the CodeWay Python Internship projects! This repository contains a collection of Python scripts developed during the internship.
-
 ## Projects Overview
 
 1. **Calculator**
