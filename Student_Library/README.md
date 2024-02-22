@@ -17,7 +17,7 @@ This is a simple library management system implemented in Python, where students
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/mustafaansarii/Python.git
+   git clone https://github.com/mustafaansarii/PythonVerse
    ```
 
 2. Navigate to the `Student_Library` directory:

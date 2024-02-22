@@ -16,7 +16,7 @@ To run the game, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/Python
+    git clone https://github.com/mustafaansarii/PythonVerse
     ```
 
 2. Navigate to the project directory:

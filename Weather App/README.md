@@ -12,7 +12,7 @@ A Python script to retrieve weather information for a given location using the O
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/mustafaansarii/CODEWAY
+    git clone https://github.com/mustafaansarii/PythonVerse
     ```
 
 2. Navigate to the project directory:
