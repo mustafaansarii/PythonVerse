@@ -3,6 +3,8 @@
 
 This is a simple library management system implemented in Python, where students can borrow and return books from a library.
 
+![Student Library Management System](/Student_Library/assets/libraries.png)
+
 ## Features
 
 - Display available books in the library
