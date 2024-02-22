@@ -23,7 +23,7 @@ This Python program validates email addresses using string functions. It checks 
 
 3. Run the Python script:
     ```bash
-    python "Email Validation in Python ( Using String Functions ).py"
+    python "Email Validation.py"
     ```
 
 4. Follow the on-screen instructions to enter the email address and validate it.
@@ -31,7 +31,3 @@ This Python program validates email addresses using string functions. It checks 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
