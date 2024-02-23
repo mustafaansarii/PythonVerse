@@ -1,5 +1,5 @@
 # Projects Overview
-
+### 1. bike rental system
 #### Description
 A bike rental system that allows users to rent bikes for a specified duration.
 
@@ -10,10 +10,10 @@ A bike rental system that allows users to rent bikes for a specified duration.
 - Tracking rented bikes and their return dates
 - Admin functionalities for managing bikes and users
 
-#### Repository Link
+ 
 [bike rental system ](https://github.com/mustafaansarii/PythonVerse/tree/main/A%20Bike%20Rental%20System)
 
-### Bank Account
+### 2. Bank Account
 
 #### Description
 A bank account management system that allows users to perform basic banking operations.
@@ -24,10 +24,10 @@ A bank account management system that allows users to perform basic banking oper
 - Viewing account balance and transaction history
 - Transferring funds between accounts
 
-#### Repository Link
+ 
 [bank account management system](https://github.com/mustafaansarii/PythonVerse/tree/main/Bank%20Account)
 
-### Calculator
+### 3. Calculator
 
 #### Description
 A simple calculator program that performs basic arithmetic operations.
@@ -36,10 +36,10 @@ A simple calculator program that performs basic arithmetic operations.
 - Addition, subtraction, multiplication, and division
 - User-friendly interface for inputting numbers and operations
 
-#### Repository Link
+ 
 [simple calculator](https://github.com/mustafaansarii/PythonVerse/tree/main/Calculator)
 
-### Email Validation
+### 4. Email Validation
 
 #### Description
 A script to validate email addresses according to standard email format rules.
@@ -48,10 +48,10 @@ A script to validate email addresses according to standard email format rules.
 - Checking if an email address is valid
 - Providing feedback on the validity of the email address
 
-#### Repository Link
+ 
 [validate email](https://github.com/mustafaansarii/PythonVerse/tree/main/Email%20Validation)
 
-### Password Generator
+### 5. Password Generator
 
 #### Description
 A tool to generate secure random passwords with customizable options.
@@ -60,10 +60,10 @@ A tool to generate secure random passwords with customizable options.
 - Generating random passwords with specified length
 - Including uppercase, lowercase letters, numbers, and special characters
 
-#### Repository Link
+ 
 [generate secure random passwords](https://github.com/mustafaansarii/PythonVerse/tree/main/Password%20Generator)
 
-### Quiz Game
+### 6. Quiz Game
 
 #### Description
 A quiz game that tests users' knowledge on various topics with randomized questions.
@@ -73,10 +73,10 @@ A quiz game that tests users' knowledge on various topics with randomized questi
 - Multiple-choice options for answers
 - Score tracking and feedback
 
-#### Repository Link
+ 
 [Quiz Game](https://github.com/mustafaansarii/PythonVerse/tree/main/Quiz%20Game)
 
-### Rock Paper Scissors Game in Python
+### 7. Rock Paper Scissors Game in Python
 
 #### Description
 A simple command-line implementation of the classic rock-paper-scissors game.
@@ -86,10 +86,10 @@ A simple command-line implementation of the classic rock-paper-scissors game.
 - Randomized computer choices
 - Displaying game results
 
-#### Repository Link
+ 
 [rock-paper-scissors game](https://github.com/mustafaansarii/PythonVerse/tree/main/Rock_Paper_Scissors_Game_in_Python)
 
-### Student Library
+### 8. Student Library
 
 #### Description
 A system for managing a library's collection of books and student records.
@@ -99,10 +99,10 @@ A system for managing a library's collection of books and student records.
 - Borrowing and returning books
 - Managing student records
 
-#### Repository Link
+ 
 [Student Library](https://github.com/mustafaansarii/PythonVerse/tree/main/Student_Library)
 
-### Teacher and Staffs
+### 9. Teacher and Staffs
 
 #### Description
 A management system for teachers and staff members in an educational institution.
@@ -111,10 +111,10 @@ A management system for teachers and staff members in an educational institution
 - Adding, removing, and updating teacher and staff records
 - Tracking staff duties and responsibilities
 
-#### Repository Link
+ 
 [Teacher and Staffs](https://github.com/mustafaansarii/PythonVerse/tree/main/Teacher%20and%20Staffs)
 
-### The Perfect Guess
+### 10. The Perfect Guess
 
 #### Description
 A guessing game where players attempt to guess a randomly chosen number within a specified range.
@@ -124,10 +124,10 @@ A guessing game where players attempt to guess a randomly chosen number within a
 - User input for guessing
 - Feedback on guess accuracy
 
-#### Repository Link
+ 
 [The Perfect Guess](https://github.com/mustafaansarii/PythonVerse/tree/main/The%20Perfect%20Guess)
 
-### To-Do List Application
+### 11. To-Do List Application
 
 #### Description
 A simple application for managing tasks and to-do lists.
@@ -136,10 +136,10 @@ A simple application for managing tasks and to-do lists.
 - Adding, updating, and removing tasks
 - Saving tasks to a file for persistence
 
-#### Repository Link
+ 
 [To-Do List Application](https://github.com/mustafaansarii/PythonVerse/tree/main/To-Do%20List%20Application)
 
-### Weather App
+### 12. Weather App
 
 #### Description
 An application for retrieving and displaying weather information for a given location.
@@ -150,6 +150,6 @@ An application for retrieving and displaying weather information for a given loc
 - Pressure, humidity, and cloud coverage
 - Sunrise and sunset times
 
-#### Repository Link
+ 
 [Weather App
 ](https://github.com/mustafaansarii/PythonVerse/tree/main/Weather%20App)
