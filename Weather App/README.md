@@ -1,35 +1,29 @@
-# Weather Information Script
+# Weather Information App
 
-A Python script to retrieve weather information for a given location using the OpenWeatherMap API.
+Welcome to the Weather Information App! This project provides real-time weather updates for any location worldwide. Simply input a city name or zip code, and instantly receive detailed weather information, including temperature, humidity, pressure, sunrise, sunset, and more.
 
 ## Features
 
-- Displays temperature, feels-like temperature, pressure, humidity, sunrise, sunset, cloud coverage, and weather description.
-- Supports both city names and zip codes as input.
+- **Simple Interface**: Easy-to-use interface for entering location details.
+- **Real-time Updates**: Get up-to-date weather information instantly.
+- **Accurate Data**: Reliable weather data sourced from OpenWeatherMap API.
+- **Seamless Integration**: Built with Python, Gradio UI, and Hugging Face Spaces for effortless deployment.
 
-## How to Use
+## Usage
 
-1. Clone the repository to your local machine:
+1. Access the live app [here](https://huggingface.co/spaces/Mustafaansari/weather-info-app).
+2. Enter a city name or zip code in the provided text box.
+3. Press Enter or click the Submit button to get weather information.
 
-    ```bash
-    git clone https://github.com/mustafaansarii/PythonVerse
-    ```
+## Requirements
 
-2. Navigate to the project directory:
+- Python 3.x
+- Gradio
+- Requests
 
-    ```bash
-    cd Task-04
-    ```
+## Installation
 
-3. Run the script:
+1. Clone the repository:
 
-    ```bash
-    python weather.py
-    ```
-
-4. Follow the on-screen instructions to enter a city name or zip code.
-
-## Screenshots
-
-![Input Example](assets/weather1.png)
-![Input Example](assets/weather2.png)
+   ```bash
+   git clone https://github.com/mustafaansarii/PythonVerse/blob/main/Weather%20App/weather.py

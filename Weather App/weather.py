@@ -1,3 +1,4 @@
+import gradio as gr
 import requests
 from datetime import datetime
 
@@ -42,7 +43,8 @@ def get_weather_info(location_input):
 
     return result
 
-location_input = input("Enter city name or zip code: ")
+# Define Gradio interface
+input_text = gr.Textbox(label="Enter city name or zip code")
+output_text = gr.Textbox(label="Weather Info")
 
-result = get_weather_info(location_input)
-print(result)
+gr.Interface(get_weather_info, inputs=input_text, outputs=output_text, title="Weather Info", description="Enter a city name or zip code to get the weather information.").launch()
