@@ -6,13 +6,29 @@ This is a simple password generator implemented in Python.
 
 This program generates random passwords of the desired length using a combination of letters (both uppercase and lowercase), digits, and special characters.
 
-## Usage
-
 To use the password generator:
 
-1. Clone the repository to your local machine.
-2. Run the `password generator.py` file using Python.
-3. Enter the desired length of the password when prompted.
+1. Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/mustafaansarii/PythonVerse.git
+    ```
+
+2. Navigate to the `Password Generator` directory:
+    ```bash
+    cd PythonVerse/Password\ Generator
+    ```
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Run the `password generator.py` file using Python:
+    ```bash
+    python password\ generator.py
+    ```
+
+5. Enter the desired length of the password when prompted.
 
 ## Example
 
