@@ -1,3 +1,5 @@
+import gradio as gr
+
 class EmailValidator:
     def __init__(self):
         self.email = ""
@@ -22,31 +24,31 @@ class EmailValidator:
                             else:
                                 d = 1
                         if k == 1 or j == 1 or d == 1:
-                            print("Wrong email format. Please enter a valid email.")
                             return False
                     else:
-                        print("Wrong email format. Please enter a valid email.")
                         return False
                 else:
-                    print("Wrong email format. Please enter a valid email.")
                     return False
             else:
-                print("Wrong email format. Please enter a valid email.")
                 return False
         else:
-            print("Wrong email format. Please enter a valid email.")
             return False
 
         return True
 
-    def get_valid_email(self):
-        while True:
-            email = input("Enter your email: ")
-            if self.validate_email(email):
-                self.email = email
-                print("Email is valid.")
-                break
+    def get_valid_email(self, email):
+        if self.validate_email(email):
+            self.email = email
+            return "Email is valid."
+        else:
+            return "Wrong email format. Please enter a valid email."
 
 validator = EmailValidator()
-validator.get_valid_email()
-print("Validated email:", validator.email)
+
+input_email = gr.Textbox(label="Enter Your Email:")
+output_text = gr.Textbox(label="Validation Result")
+
+interface = gr.Interface(fn=validator.get_valid_email, inputs=input_email, outputs=output_text, title="Email Validator", description="Validate an email address.")
+
+if __name__ == "__main__":
+    interface.launch()
