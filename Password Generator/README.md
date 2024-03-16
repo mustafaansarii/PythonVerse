@@ -1,4 +1,3 @@
-```markdown
 # Password Generator
 
 This is a simple password generator implemented in Python.
