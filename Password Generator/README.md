@@ -15,7 +15,7 @@ To use the password generator:
 
 2. Navigate to the `Password Generator` directory:
     ```bash
-    cd PythonVerse/Password\ Generator
+    cd PythonVerse/Password Generator
     ```
 
 3. Install the required dependencies:
@@ -25,7 +25,7 @@ To use the password generator:
 
 4. Run the `password generator.py` file using Python:
     ```bash
-    python password\ generator.py
+    python password generator.py
     ```
 
 5. Enter the desired length of the password when prompted.
