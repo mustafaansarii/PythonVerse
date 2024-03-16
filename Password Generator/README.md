@@ -16,11 +16,7 @@ To use the password generator:
 
 ## Example
 
-```bash
-$ python password\ generator.py
-Enter the desired length of the password: 12
-Generated Password: F)1N={x9J}uR
-```
+![Gradio UI](/Password%20Generator/assets/gradio1.png)
 
 ## Dependencies
 
